@@ -6,3 +6,6 @@ click by a users.
 note: some dynamic banner or info does not response. so i request you to see at least 5 card of home page....
 
 thank you so much
+
+live site : https://vigorous-hoover-8fc88d.netlify.app
+
