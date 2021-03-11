@@ -26,8 +26,8 @@ const Detail = () => {
     return (
                       <div>
                             <div>
-                                    <img  className = "strbanner" src = {details.strBanner} alt = ""/>
-                                    <img  className = "strbadge" src = {details.strBadge}  alt = ""/>
+                                    <img  className = "strbanner" src = {details.strBanner} alt = " "/>
+                                    <img  className = "strbadge" src = {details.strBadge}  alt = " "/>
                             </div>
   
                 <div className = 'container d-flex total-info '>
@@ -43,7 +43,7 @@ const Detail = () => {
                        
                        <div className = "conditionImage col-md-5 ">
                            {
-                               details.strGender === "Male" ? <img src = {male} alt = ""/> : <img src = {female} alt = ""/>
+                               details.strGender === "Male" ? <img src = {male} alt = " "/> : <img src = {female} alt = " "/>
                            }
                        </div>
                   </div>
@@ -53,9 +53,9 @@ const Detail = () => {
                       {details.strDescriptionEN}
                   </p>
                   <footer className = "footer-img">
-                     <a target= "blank"  href= {"http://" + details.strFacebook}> <img src ={Facebook} ></img></a>
-                      <a target= "blank" href= {"http://" + details.strYoutube}><img src ={Youtube} ></img></a>
-                      <a target= "blank" href= {"http://" + details.strTwitter}><img src ={Twiter} ></img></a>
+                     <a target= "blank"  href= {"http://" + details.strFacebook}> <img src ={Facebook} alt = " " ></img></a>
+                      <a target= "blank" href= {"http://" + details.strYoutube}><img src ={Youtube} alt = " " ></img></a>
+                      <a target= "blank" href= {"http://" + details.strTwitter}><img src ={Twiter} alt = " "  ></img></a>
                   </footer>
                   </div>
                  
