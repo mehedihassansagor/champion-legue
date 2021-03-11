@@ -1,0 +1,16 @@
+.image h2{
+    position:absolute;
+    color:khaki;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 40%;
+    z-index: 1;
+    font-weight: 700;
+}
+img{
+    position: relative;
+    height: 350px;
+    width: 100%;
+    margin-bottom: 30px;
+
+}

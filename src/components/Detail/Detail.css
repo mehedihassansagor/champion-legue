@@ -1,0 +1,52 @@
+.strbanner{
+    position: relative;
+}
+.strbadge{
+    position: absolute;
+    z-index: 1;
+    width: 150px;
+    height: 200px;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.conditionImage{
+    width: 40%;
+
+}
+.conditionImage img{
+    height: 200px;
+    padding: 5px;
+    margin-top: 20px;
+    width: 300px;
+}
+.info{
+    width: 60%;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.total-info{
+    background-color: antiquewhite;
+    border-radius: 15px;
+   margin-left: 230px;
+   width: 1000px;
+
+}
+.explain{
+    margin-top: 30px;
+    background-color:blueviolet;
+    border-radius: 20px;
+    margin-left: 230px;
+   width: 1000px;
+}
+.footer-img{
+    
+    text-align: center;
+}
+.footer-img img{
+   max-height: 50px;
+   max-width: 50px;
+   margin: 10px;
+   
+}
