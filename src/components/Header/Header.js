@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <div  className = 'image'>    
         <h2>Champion league</h2>
-                <img  src = {img}/>
+                <img  src = {img} alt = " "/>
         </div>
     );
 };
