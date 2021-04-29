@@ -1,7 +1,7 @@
-1.here you can take services
-2. all services are protect by private route so you have to log in here
-3. here you can your feed back also
-4. here is a feature for admin who can remove services and orders
+•	This is a simple dynamic project.
+•	Here you can select a team.
+•	The team which you select you got the individual team information.
+•	The team is formed by male or female you got the idea by dynamic picture
 
 
 
